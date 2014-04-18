@@ -1,4 +1,5 @@
 require 'shellwords'
+require 'stringio'
 
 module Launchy::Detect
   class Runner
